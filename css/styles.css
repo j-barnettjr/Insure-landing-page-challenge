@@ -1,0 +1,361 @@
+/***********************Element*******************/
+
+body {
+  margin: 0;
+  font-family: 'Karla', sans-serif;
+  font-weight: 400;
+}
+
+h1 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 4.375rem;
+  font-weight: 400;
+}
+
+h2 {
+  font-family: 'DM Serif Display', serif;
+  font-weight: 400;
+}
+
+a {
+  color: #a8a5a8;
+}
+
+a:hover {
+  color: #000000;
+}
+
+p {
+  line-height: 2;
+}
+
+
+/**********************Attributes*****************/
+
+.top-container {
+  background-color: #2d2640;
+  color: #ffffff;
+  position: relative;
+  height: 700px;
+
+}
+
+.header{
+padding: 30px 50px;
+}
+
+.h-logo {
+position: absolute;
+left: 260px;
+top: 20px;
+}
+
+.first-a {
+  position: absolute;
+  right: 300px;
+      top: 20px;
+margin-right: 20px;
+  }
+
+  .how-we {
+    text-decoration: none;
+    margin: 10px;
+  }
+
+.blog {
+  text-decoration: none;
+  margin: 10px;
+}
+
+.acct {
+  text-decoration: none;
+  margin: 10px;
+}
+
+.mybutton1 {
+	background-color:#ffffff;
+	border:2px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#050505;
+	font-family: 'Karla', sans-serif;
+	font-size:17px;
+	text-decoration:none;
+  padding: 5px 20px;
+      margin-top: 8px;
+      position: absolute;
+    right: 160px;
+    top: 5px;
+}
+.mybutton1:hover {
+	background-color:#000000;
+  color: #ffffff;
+}
+
+.top-p {
+  text-align: left;
+  margin-top: 70px;
+  width: 500px;
+      height: 170px;
+    position: absolute;
+    left: 260px;
+    top: 125px;
+}
+
+.hr1 {
+  width: 30%;
+  position: absolute;
+
+}
+
+
+.human {
+  margin-bottom: 10px;
+    margin-top: 30px;
+    line-height: 1;
+}
+
+
+.mybutton2 {
+	background-color:#2d2640;
+	border:2px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:17px;
+	padding: 5px 20px;
+	text-decoration:none;
+}
+.mybutton2:hover {
+	background-color:#ffffff;
+  color: #000000;
+}
+
+
+.first-p {
+  width: 580px;
+  font-size: 1.0625rem;
+  line-height: 2;
+}
+
+
+.intro-img {
+  float: right;
+  position: absolute;
+      right: 160px;
+      top: 200px;
+}
+
+.pattern-r {
+  position: absolute;
+right: 0;
+top: 0;
+}
+
+.pattern-l {
+  position: absolute;
+  top: 530px;
+}
+
+.img-p {
+  text-align: left;
+}
+
+.middle-container {
+  margin-top: 370px;
+}
+
+.were-different {
+      margin-left: 260px;
+}
+
+.wd {
+  margin-bottom: 100px;
+}
+
+.hr2 {
+  width: 10%;
+  position: absolute;
+top: 1080px;
+
+}
+
+.discription {
+  display: inline-block;
+}
+
+.snappy {
+  display: inline-block;
+width: 22%;
+margin-right: 80px;
+}
+
+.snappy-p {
+  width: 330px;
+}
+
+.affordable {
+  display: inline-block;
+width: 22%;
+margin-right: 80px;
+}
+
+
+.afford-p {
+  width: 330px;
+}
+
+
+
+.people {
+  display: inline-block;
+width: 22%;
+}
+
+.ppl-p {
+  width: 330px;
+}
+
+.bottom-container {
+  background-color: #2d2640;
+  margin-left: 260px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    width: 1057.840px;
+    height: 250px;
+    position: relative;
+}
+
+
+.find {
+  color: #ffffff;
+ display: inline-block;
+ width: 400px;
+ font-size: 50px;
+ position: relative;
+    left: 100px;
+}
+
+
+
+.how-we-work {
+  background-color:#2d2640;
+  border:2px solid #ffffff;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-size:17px;
+  text-decoration:none;
+  resize: both;
+padding: 5px 20px;;
+  position: relative;
+left: 400px;
+bottom: 100px;
+}
+
+
+.how-we-work:hover {
+	background-color:#ffffff;
+  color: #000000;
+}
+
+.footer-pattern {
+  resize: both;
+  overflow: hidden;
+  position: relative;
+    left: 700px;
+    bottom: 300px;
+    transform: rotateZ(90deg);
+}
+
+.footer {
+  margin-bottom: 30px;
+}
+
+
+.f-logo {
+  position: relative;
+  left: 260px;
+  bottom: 0;
+}
+
+.icons {
+  position: relative;
+  left: 1215px;
+  bottom: 20px;
+}
+
+.facebook:hover {
+  background-color: #000000;
+}
+
+.twitter:hover {
+  background-color: #000000;
+}
+
+.pinterest:hover {
+  background-color: #000000;
+}
+
+.instagram:hover {
+  background-color: #000000;
+}
+
+
+
+.hr3 {
+  width: 1057.830px;
+  color: #a8a5a8;
+}
+
+
+.our {
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 230px;
+  margin-right: 200px;
+}
+
+.our:hover {
+  text-decoration: underline;
+  color: #000000;
+}
+
+
+.help {
+  display: inline-block;
+  text-decoration: none;
+  margin-right: 200px;
+}
+
+.help:hover {
+  text-decoration: underline;
+  color: #000000;
+}
+
+
+.contact {
+  display: inline-block;
+  text-decoration: none;
+  margin-right: 200px;
+}
+
+.contact:hover {
+  text-decoration: underline;
+  color: #000000;
+}
+
+.others {
+  display: inline-block;
+  text-decoration: none;
+}
+
+
+.other:hover {
+  text-decoration: underline;
+  color: #000000;
+}
+
+.hidden {
+  visibility: hidden;
+}
